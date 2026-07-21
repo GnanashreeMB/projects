@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gnana Shree
+# Hi 👋 I'm GnanaShree
 
 🎓 M.Tech Data Science Student at JSS Science and Technology University
 
