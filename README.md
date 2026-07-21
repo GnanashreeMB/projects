@@ -1,6 +1,6 @@
 Hi 👋, I'm Gnanashree MB
 
-i'm currently pursuing my bachelor's degree in computer science
+i'm currently pursuing my Master's degree in Data science
 
 All of my projects are available here
 
